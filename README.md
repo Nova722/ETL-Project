@@ -10,7 +10,9 @@ Three Tables were included:
 
 Workflow was as follows:
 
-Upload excel sheets in SQL Lite
-Transform data using SQL (merging tables, creating views etc.)
-Exporting the transformed data to Python for further analysis
-Uploading out analysis directly from Python into SQL database
+Upload excel sheets in SQL Lite Database
+Transform data using SQL Alchemy in Python (merging tables, etc.)
+Exporting the transformed data to Python for further analysis (performing equations on the data, adding columns etc.)
+Uploading our analysis directly from Python into SQL database
+
+
